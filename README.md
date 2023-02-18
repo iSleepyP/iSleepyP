@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supapol senasook.
 ========================================================================================================================================
 
-Full stack developer
+Position : Full stack developer with C#.net core and Angular.
 --------------------
 
-I'm practicing to be the great developer. Now i'm interesting to Nodejs , Docker and Kubernetes.
+Happy with coding.
+Now I'm practicing to be the great developer. Now i'm interesting to learn about Nodejs , Docker and Kubernetes.
+If you have any advice please feel free to suggest it , thank you.
 
 * 🌍  I'm based in Bangkok, Thailand.
 * 🖥️  See my portfolio at [My github.](http://github.com/iSleepyP)
