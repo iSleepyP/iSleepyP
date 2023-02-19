@@ -5,7 +5,7 @@ Position : Full stack developer with C#.net core and Angular.
 --------------------
 
 Happy with coding.
-Now I'm practicing to be the great developer. Now i'm interesting to learn about Nodejs , Docker and Kubernetes.
+Now I'm practicing to be the great developer.I'm interesting to learn about Nodejs , Docker and Kubernetes.
 If you have any advice please feel free to suggest it , thank you.
 
 * 🌍  I'm based in Bangkok, Thailand.
